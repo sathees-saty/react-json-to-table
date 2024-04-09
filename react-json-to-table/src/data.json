@@ -1,0 +1,22 @@
+[{
+    "id": 1,
+    "first_name": "Ram",
+    "last_name": "Kumar",
+    "city": "Chennai",
+    "job": "Developer",
+    "email": "ramkumar@gmail.com"
+},{
+    "id": 2,
+    "first_name": "Suresh",
+    "last_name": "Kumar",
+    "city": "Bangalore",
+    "job": "Tech Lead",
+    "email": "sureshkumar@gmail.com"
+},{
+    "id": 3,
+    "first_name": "Shiva",
+    "last_name": "Kumar",
+    "city": "Mumbai",
+    "job": "Test Lead",
+    "email": "shivakumar@gmail.com"
+}]
