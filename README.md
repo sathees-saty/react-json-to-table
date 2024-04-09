@@ -23,7 +23,7 @@ Generate a Table From JSON Data in React
   <br>
   open browser: http://localhost:3000/
   <br>
-  <img src="https://github.com/sathees-saty/react-json-to-table/assets/65384711/962170a9-c1ea-4635-b98c-9702e4794e1c" alt="J" width="200"/>
+  <img src="https://github.com/sathees-saty/react-json-to-table/assets/65384711/962170a9-c1ea-4635-b98c-9702e4794e1c" alt="J" width="500" height="600"/>
   <br>
   ![react-json-to-table](https://github.com/sathees-saty/react-json-to-table/assets/65384711/962170a9-c1ea-4635-b98c-9702e4794e1c)
 
